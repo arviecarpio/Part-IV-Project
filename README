@@ -5,5 +5,21 @@ Title: Secure Patient Smartphone App which communicates back to Health Care Prov
 Outcome: A smart phone application used by a patient that securely communicates back to a Health Care Provider
 
 Description:
-OBJECTIVE: To build a smart phone application used by a patient that securely communicates back to a Health Care Provider (doctor / hospital). BUSINESS CASE: By being better able to manage patients, it is expected that they will have improved medical outcomes and require less visits to their Health Care Provider. PATIENT APPLICATION FEATURES: * Remind patients of medications they need to take o View / alter reminders o View medications o Mark as given * Take photos for transmitting to doctor * Add observations / results * Real-time chat with health professional * Monitor vital signs of sick patient for early warnings if they deteriorate HEALTH CARE PROVIDER FEATURES: While the patient is the target application user, the health care provider needs some way to provide the appropriate medications and receive communications back from the patient. The are a number of ways this could be achieved and can be influenced by your interests. A web front end for this would be ideal and give a good mix of technologies, but this could for example also be achieved as a smartphone application.  
+OBJECTIVE: To build a smart phone application used by a patient that securely communicates back 
+to a Health Care Provider (doctor / hospital). 
+
+BUSINESS CASE: By being better able to manage patients, it is expected that they will have improved 
+medical outcomes and require less visits to their Health Care Provider. 
+
+PATIENT APPLICATION FEATURES: 
+* Remind patients of medications they need to take o View / alter reminders or View medications o Mark as given 
+* Take photos for transmitting to doctor 
+* Add observations / results * Real-time chat with health professional 
+* Monitor vital signs of sick patient for early warnings if they deteriorate 
+
+HEALTH CARE PROVIDER FEATURES: While the patient is the target application user, 
+the health care provider needs some way to provide the appropriate medications and receive communications 
+back from the patient. The are a number of ways this could be achieved and can be influenced by your interests. 
+A web front end for this would be ideal and give a good mix of technologies, 
+but this could for example also be achieved as a smartphone application.  
 
